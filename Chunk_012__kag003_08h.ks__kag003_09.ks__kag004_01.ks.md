@@ -1,0 +1,1032 @@
+# kag003_08h.ks
+
+﻿*prepare
+[ヘッダ]
+
+*kag003_08h|Wife Not Worried About Her Erotic Massage
+[待ち time=1000]
+[待ち time=500]
+[ウィンドウ表示]
+
+[――]Soon after, the massage that Gonzo described began.
+[￥]
+
+[完全消去 time=1000]
+[待ち time=500]
+[音楽 file=Ｈ２]
+[イベント time=1000 file=H080]
+[待ち time=500]
+[ウィンドウ表示]
+[吐息 file=愛実弱]
+
+[名前 id=【Manami】 file=m0656]
+[「]Hmmm …… hmmm …… hmmm ……」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Please relax. You have a lot of knots.」
+[￥]
+
+[名前 id=【Manami】 file=m0657]
+[「]Yes, yes, ……, I understand …….」
+[￥]
+
+Manami was laying face down on the futon and she sounded calm and comfortable.
+[￥]
+
+Gonzo skillfully used his rugged hands, first massaging Manami's shoulders and back.
+[￥]
+
+Manami's nervousness seemed to be slipping away, perhaps relieved that it was just a[r]
+massage, with nothing to worry about at the moment.
+[￥]
+
+Of course, there was no way it’s going to end like this, but …… Gonzo was not only[r]
+reassuring Manami, but was also taking his time and painstakingly releasing her stiffness, as[r]
+if he was trying to irritate me, who was peeping at him.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]G-Gonzo……)
+[￥]
+
+Whatever his true intentions, I was in fact completely impatient. I guess you could say that I[r]
+was …….
+[￥]
+
+Eventually……
+[￥]
+
+[名前 id=【Gonzo】]
+[「]…Your lower back is also quite stiff.」
+[￥]
+
+[名前 id=【Manami】 file=m0658]
+[「]……Hmmm…… I-is that so……」
+[￥]
+
+Manami's body stiffens for a moment as Gonzo's hand slides down to her lower body.
+[￥]
+
+Gonzo reassures Manami that she is in good hands.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Rest assured. As per my Master’s request, I will only give you a massage.」
+[￥]
+
+[名前 id=【Manami】 file=m0659]
+[「]Is that so……? … uh… ku…」
+[￥]
+
+Manami, still not letting her guard down, replied.
+[￥]
+
+[イベント file=H081]
+
+[名前 id=【Gonzo】]
+[「]By the way, Manami-sama has a nice ass. I'm sure she can give birth to as many children as[r]
+she wants with Takahiko-sama.」
+[￥]
+
+[名前 id=【Manami】 file=m0660]
+[「]Huh…… Kuh…… Uh…… Hmm……」
+[￥]
+
+Gonzo said while massaging his waist and buttocks. For a moment, Manami was about to[r]
+say something, but remained quiet, leaving her at Gonzo’s mercy.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]Manami ……?)
+[￥]
+
+I finally noticed it then. Manami's breath was becoming …… strangely heated.
+[￥]
+
+[吐息 file=愛実強]
+
+[名前 id=【Manami】 file=m0661]
+[「]Hah ……. Ahh …… ah …….」
+[￥]
+
+In light of …… what sounded like nervousness and alarm earlier, wasn't it in fact the lusty[r]
+voice that she is now emitting?
+[￥]
+
+[名前 id=【Gonzo】]
+[「]…… I'm going to rub a little different part of the body, but please be quiet.」
+[￥]
+
+Gonzo makes a new move, as if he senses my intentions through the wall.
+[￥]
+
+[喘ぎ停止]
+[イベント file=H082]
+
+[名前 id=【Manami】 file=m0662]
+[「]Kyah …… that, there …… there …… there …… there …… there …… there ……」
+[￥]
+
+Gonzo's fingertips descended further from around her waist and buttocks…… and slid to the[r]
+base of her thighs.
+[￥]
+
+[名前 id=【Manami】 file=m0663]
+[「]Hey, what ……」
+[￥]
+
+Technically, where he was rubbing wasn’t her secret place. It wasn't, but it's as close as it[r]
+gets….
+[￥]
+
+Manami was clearly alarmed this time, …… slightly red in the cheeks, and raised her voice.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]By massaging the base of the thigh, the lymphatic system will improve. Let's massage[r]
+slowly.」
+[￥]
+
+[吐息 file=愛実弱]
+
+[名前 id=【Manami】 file=m0664]
+[「]R-really?… Oh …… oh …… oh ……」
+[￥]
+
+That being said, once she had accepted it, she could not refuse it. Above all, although it is[r]
+close to her secret place, it is a different place. She can't offer a good reason for refusing.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Now let's go to ……」
+[￥]
+
+Seeing that there was no resistance from Manami, Gonzo's gnarled fingers grew bolder……
+[￥]
+
+[名前 id=【Manami】 file=m0665]
+[「]Mmm!　Oh …… is ah……!」
+[￥]
+
+As it was, he groped the base of Manami's thighs.[――]And yet, he began to squeeze and rub her without touching her secret area.
+[￥]
+
+[名前 id=【Manami】 file=m0666]
+[「]Oh …… ah……. Mmmmmm …… mmmm …….」
+[￥]
+
+Certainly, as a part, it was definitely within the category of the base of the thigh, and it wasn't[r]
+like her pussy was being caressed directly.
+[￥]
+
+As expected, Manami had no choice but to accept Gonzo's fingers without protest.
+[￥]
+
+[名前 id=【Manami】 file=m0667]
+[「]Uh…… Uh…… Hmm…… Nh…… Ah, Ah……」
+[￥]
+
+Of course, normally… to look at it another way, even though he didn't touch it, it was close[r]
+enough. She could have refused..
+[￥]
+
+[名前 id=【Manami】 file=m0668]
+[「]Ahh……. Ha……uuuuuu……」
+[￥]
+
+But now it was too late. Since she had already accepted the massage so far, she can't go[r]
+back.
+[￥]
+
+[吐息 file=愛実強]
+
+[名前 id=【Manami】 file=m0669]
+[「]Ha……ahhhhhh.」
+[￥]
+
+At first, Manami looked embarrassed, but then, perhaps due to Gonzo's skill, she began to[r]
+look pleasantly surprised.
+[￥]
+
+[名前 id=【Manami】 file=m0670]
+[「]Haa……haa……haa……haa」
+[￥]
+
+[――]And an enchanted face that only let out hot breaths and sweet sounds.
+[￥]
+
+Manami herself[――]Whether it's a massage or indirect sexual sensation[――]It is even more difficult to refuse because it feels so good.
+[￥]
+
+[名前 id=【Manami】 file=m0671]
+[「]Haa…… haa…… haa…… this is something… something……」
+[￥]
+
+Just like that, after reaching a point of no return, Manami finally made an expression as if[r]
+she had realized something.
+[￥]
+
+The look of bewilderment on her face tells the story.
+[￥]
+
+This is…… no matter what, it feels too good. It's not a massage-like pleasure that relieves[r]
+stiffness. Equal to sexual sensation, it is pleasant in a lewd sense.
+[￥]
+
+[名前 id=【Manami】 file=m0672]
+[「]Oh, …… and ……. This is ……, no…….」
+[￥]
+
+Even though she wasn't being caressed directly, she felt the pleasure of being a woman.
+[￥]
+
+She was perplexed by this, and saddened that she would not be able to force herself to stop[r]
+once she had been aroused to this point.
+[￥]
+
+With those things mixed up, Manami raised a voice of confusion with a flushed face.
+[￥]
+
+It stands to reason[――]Behind the wall, I agree.
+[￥]
+
+What Gonzo is now giving to Manami is a sexual massage.
+[￥]
+
+His technique is a clever mixture of regular massage and …… techniques such as[r]
+stimulation of acupressure points that enhance a woman's sexuality, and stimulation of the[r]
+female genitalia and other sexual zones without direct touch.
+[￥]
+
+I can't imitate this, nor can my father. It is a technique that only Gonzo can do.
+[￥]
+
+[名前 id=【Manami】 file=m0673]
+[「]Oh…… hey, ……!　This is …… strange, this is …… strange.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]There is nothing strange about it. It is a massage. It is a massage to relieve Manami-sama's[r]
+stiffness.」
+[￥]
+
+[名前 id=【Manami】 file=m0674]
+[「]Ahhhhhh ……」
+[￥]
+
+Manami's legs, which had been tightly closed at first, were seen to be very slowly spreading[r]
+open as her thighs, which were being stimulated, squirmed and shook on the sheets in a[r]
+frustratingly slow manner.
+[￥]
+
+[イベント file=H083]
+[吐息 file=愛実弱]
+
+[名前 id=【Manami】 file=m0675]
+[「]Haa…… haa…… haa…… haa…… ah……」
+[￥]
+
+Manami, who is nothing more than pitiful prey in this situation, cannot help herself. All she[r]
+can do is to let out a sad voice like a carp on the chopping block.
+[￥]
+
+Her hips rise and fall shallowly. Her legs, like a frog being tormented to death by a cruel[r]
+child, suddenly opened wide.
+[￥]
+
+[名前 id=【Manami】 file=m0676]
+[「]Oh……no……」
+[￥]
+
+Manami, who is on the verge of bursting, but still leaks out her sounds of embarrassment.[r]
+No wonder.
+[￥]
+
+On her underwear, a wet, dark stain was already clearly visible, and her pussy lips inside[r]
+were also clearly visible, as well as the color.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]……Manami-sama」
+[￥]
+
+Seeing Manami like that, Gonzo no longer hides his lust. There is no need.
+[￥]
+
+With a clearly bulging crotch, he turns to Manami and starts out as if of course he is really[r]
+trying to be nice.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]……Your clothes……If I massage directly under your underwear, you can get a more[r]
+beautifying and healthy massage, what do you think?」
+[￥]
+
+[喘ぎ停止]
+
+[名前 id=【Manami】 file=m0677]
+[「]……」
+[￥]
+
+Those statements are obvious lies.
+[￥]
+
+Even Manami, who had her brain melted by the erotic massage, could notice it.
+[￥]
+
+But I'm aware of it[――].
+[￥]
+
+[名前 id=【Gonzo】]
+[「]How about it? …… I'll be glad to help you.」
+[￥]
+
+[名前 id=【Manami】 file=m0678]
+[「]Ah……」
+[￥]
+
+He asked again, in a degrading manner, as if he was chewing on the question, and Gonzo[r]
+stopped his massage.
+[￥]
+
+A voice of bewilderment[――]No, Manami let out a clear, regretful voice from her wet lips.
+[￥]
+
+[名前 id=【Manami】 file=m0679]
+[「]Uh, that's……」
+[￥]
+
+With that expression on her face, Manami seemed to be searching for an answer while her[r]
+eyes were swimming, but in truth, there was only one answer prepared from the beginning.[r]
+At that stage when Gonzo and I colluded and forced her into this situation.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Manami-sama」
+[￥]
+
+Completely seeing through Manami’s conflict, Gonzo whispered into her ear and said.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]It's just…… it's just a massage……」
+[￥]
+
+[名前 id=【Manami】 file=m0680]
+[「]Uh, uh……」
+[￥]
+
+Manami’s ear was tickled by his tactless breath, and she seemed to tremble a little.
+[￥]
+
+And then[――].
+[￥]
+
+[名前 id=【Manami】 file=m0681]
+[「]Takahiko-san…… I’m sorry…… I’m sorry……」
+[￥]
+
+She continued …… muttering in a voice just barely audible to me in the hidden room, and[r]
+then she dropped her eyes.
+[￥]
+
+[名前 id=【Manami】 file=m0682]
+[「]……Massage……Oh, please……」
+[￥]
+
+That's what she said to Gonzo with her downcast eyes.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]……Certainly」
+[￥]
+
+Gonzo glanced at me in the hidden room and then…….
+[￥]
+
+[ＨＳＥ file=粘着]
+[イベント file=H084]
+
+[名前 id=【Manami】 file=m0683]
+[「]Ah …… oooh ……」
+[￥]
+
+Gonzo's gnarled fingers deftly pulled off Manami's underwear. From her mouth again, a[r]
+longing voice leaked out…… but also full of anticipation.
+[￥]
+
+[名前 id=【Manami】 file=m0684]
+[「]Huh…… Ugh!」
+[￥]
+
+As if to ignore Manami's embarrassment, Gonzo bluntly moved his right hand to her vagina[r]
+and his left hand to her clitoris.
+[￥]
+
+[ＨＳＥＬ file=粘着弱]
+[喘ぎ file=愛実弱]
+
+[名前 id=【Manami】 file=m0685]
+[「]Heh……hiuuuuuu……」
+[￥]
+
+As expected, Manami also raised her voice when she was allowed to do so without[r]
+hesitation.
+[￥]
+
+[名前 id=【Manami】 file=m0686]
+[「]Hi!　Hi……aaaah!」
+[￥]
+
+In the next moment, Gonzo had already begun to caress each of them.
+[￥]
+
+*squish* *squish*, sticky sounds can be heard clearly even in the hidden room.
+[￥]
+
+[名前 id=【Manami】 file=m0687]
+[「]Hiaaaaaa!? 　……All of a sudden, like that……」
+[￥]
+
+Manami actually screams in bewilderment, probably thinking that there would still be some[r]
+discretion …… in the massage.
+[￥]
+
+[名前 id=【Manami】 file=m0688]
+[「]Ahhhh …… oh …… and …… ahhh!」
+[￥]
+
+However, once her already flooded vaginal flesh is stirred and her clitoris is kneaded under[r]
+the effects of Gonzo's sexual massage, they can only be quickly transformed into a sweet,[r]
+pleasure-filled moan.
+[￥]
+
+[ＨＳＥＬ file=粘着強]
+[喘ぎ file=愛実中]
+
+[名前 id=【Manami】 file=m0689]
+[「]U…… ah!　Ah…… ah!」
+[￥]
+
+She pathetically lets out a voice that is indistinguishable from a moan, a scream, or a gasp.
+[￥]
+
+[名前 id=【Manami】 file=m0690]
+[「]Hah……! Oh……It's…… no…… good…… like this……」
+[￥]
+
+Her cute ass swayed up and down and twisted left and right as Gonzo's fingers moved.[r]
+Manami seemed to have completely turned into Gonzo's puppet.
+[￥]
+
+[名前 id=【Manami】 file=m0691]
+[「]Huh!　Oh …… hey ahhh ……」
+[￥]
+
+The abnormally overflowing love juice wet the sheets and spread the stain.
+[￥]
+
+Manami eventually reacts somewhat loudly with a jerk…….…
+[￥]
+
+[名前 id=【Manami】 file=m0692]
+[「]No…. No no no no no no no… Oh… Ohoooo Ohhhh」
+[￥]
+
+Like a broken toy, she let out a loud voice……and then I thought it looked like her ass was[r]
+lifted……
+[￥]
+
+[ＨＳＥＬ停止]
+[フラッシュ１]
+[イベント time=10 file=H085]
+
+[名前 id=【Manami】 file=m0693]
+[「]Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!」
+[￥]
+
+At the same time as a bewildered scream, transparent droplets erupted from her crotch.
+[￥]
+
+[吐息 file=愛実強]
+
+[名前 id=【Manami】 file=m0694]
+[「]Ah…… ah…… ahhhhh……」
+[￥]
+
+Manami’s entire waist shakes as she struggles. The droplets overflow one after another,[r]
+continuously, staining Gonzo's fingers and body, and making a pee-like stain on the sheets.
+[￥]
+
+[名前 id=【Manami】 file=m0695]
+[「]Ah…… ahhh…… ahhhhh」
+[￥]
+
+[名前 id=【Takahiko】]
+[（]Manami……)
+[￥]
+
+In out caresses and sex together, something like Manami’s squirting had never happened[r]
+before.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Hey there, hey there…… that looked like it was pretty good, Manami-sama」
+[￥]
+
+Didn't Gonzo's words sound somewhat triumphant?
+[￥]
+
+In my hidden room, I feel intense anger and jealousy towards Gonzo.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]G-Gonzo……You’re just… you’re just a servant!)
+[￥]
+
+And at the same time, I was clutching my own cock, harder than ever.
+[￥]
+
+[イベント file=H086]
+
+[名前 id=【Manami】 file=m0696]
+[「]Ah…… ah…… ah……」
+[￥]
+
+Somehow, she endured the afterglow of her climax…… Manami stared at Gonzo with an[r]
+expression like she didn't know what to do.
+[￥]
+
+[名前 id=【Manami】 file=m0697]
+[「]Aaah…… still……. Ah, ah…… ah, ah ah……」
+[￥]
+
+Manami is immersed in the aftermath of her orgasm in a muddled voice, as she repeatedly[r]
+feels the deep pleasure like waves ebbing and flowing.
+[￥]
+
+I can clearly see that her pussy is wistfully twitching.
+[￥]
+
+Gazing at such a sight with satisfaction, Gonzo opened his mouth again.
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Oh …… oh …… oh, no, no …… no such …… such ah ……」
+[￥]
+
+[喘ぎ停止]
+
+[名前 id=【Manami】 file=m0698]
+[「]Eh……」
+[￥]
+
+Before Manami can let out any screams, Gonzo places his swollen dark cock right at her[r]
+vulva.
+[￥]
+
+[ＨＳＥ file=粘着]
+
+[名前 id=【Manami】 file=m0699]
+[「]Huh!?　Wait[――]！」
+[￥]
+
+Her brain, which had been melted by orgasm, was quickly pulled back to reality, but it was[r]
+already too late.
+[￥]
+
+[ＨＳＥ file=挿入]
+[イベント file=H087]
+
+[名前 id=【Gonzo】]
+[「]That's ……!」
+[￥]
+
+[名前 id=【Manami】 file=m0700]
+[「]Higuuuuuuuuuuu！？」
+[￥]
+
+It was irresistible because Gonzo's cock, without a shred of hesitation, was thrust deep into[r]
+her still sensitive pussy just after her climax, in one breath.
+[￥]
+
+[吐息 file=愛実強]
+
+[名前 id=【Manami】 file=m0701]
+[「]Hagu!　Gghh…… gghh……!　Ugh…… ugh……」
+[￥]
+
+Manami's mouth drops open and her eyes roll back.
+[￥]
+
+I'm worried that she's going to break down like this…… She had such an intense, unrefined,[r]
+and most of all, obscene look on her face.
+[￥]
+
+[名前 id=【Manami】 file=m0702]
+[「]Hiyaaaaa……Ta……Takahiko……san……. Ngugugugu!」
+[￥]
+
+[ＨＳＥＬ file=挿入強]
+[喘ぎ file=愛実中]
+
+Gonzo did not hold back even after inserting it. He didn’t give her the time to relax and digest[r]
+the pleasure. He immediately begins violently fucking her like an animal.
+[￥]
+
+[名前 id=【Manami】 file=m0703]
+[「]Hiuuuuhhhh!　I'm sorry …… I'm sorry, Takahiko …… saaaaan……　Hiuuuuuuuuuuuuu!」
+[￥]
+
+Manami mechanically repeated her apologies to me with her mouth that was barely[r]
+articulate.
+[￥]
+
+But it no longer makes any sense. There is no intention of apology.
+[￥]
+
+[名前 id=【Manami】 file=m0704]
+[「]Hiuuuuhhhh!　Sorry ……Aww, ……sorry!　Nggghhhh!　Takahiko……[r]
+huuuuuuh!　Takahiko……saaaaaaaaaaaan!」
+[￥]
+
+It's just a wheezing sound. Being fucked by Gonzo, she is pushed to the heights of pleasure[r]
+without fully understanding the situation.
+[￥]
+
+[名前 id=【Manami】 file=m0705]
+[「]Hiuuuu！　Taka！　hi……koooo……！　saaaaaaaan！I’m sorry……eeeeeeeeeee！？」
+[￥]
+
+The words that came to her mind at the moment when she still had some intellect or reason[r]
+left, just before her head was overwhelmed with pleasure, are merely being repeated on their[r]
+own.
+[￥]
+
+As evidence of this[――].
+[￥]
+
+[名前 id=【Manami】 file=m0706]
+[「]Hiiiiii！　Hiiiii！　Hiiiii……Hiiiiiiii！」
+[￥]
+
+Manami was already shaking her ass and shaking her hips in time with Gonzo's thrusts, and[r]
+was greedily trying to devour the pleasure.
+[￥]
+
+[名前 id=【Manami】 file=m0707]
+[「]Hiiii!　Hiiii!　I’m cumming …… I’m cumminnnnnnng.」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]……Sounds like you've got it just right, Manami-sama. Then I will not have to be shy[r]
+either.」
+[￥]
+
+[名前 id=【Manami】 file=m0708]
+[「]…… huh?」
+[￥]
+
+Manami couldn't figure out the meaning of the words, and made a stupid face.
+[￥]
+
+[ＨＳＥＬ file=挿入最強]
+[イベント file=H088]
+[喘ぎ file=愛実強]
+
+Immediately thereafter, Gonzo thrust his hips furiously.
+[￥]
+
+[名前 id=【Manami】 file=m0709]
+[「]Hi[――]Hiiiiiiiiiiiiiiii!!」
+[￥]
+
+I was mistaken earlier when I thought that Gonzo lacked a shred of discretion.
+[￥]
+
+[名前 id=【Manami】 file=m0710]
+[「]Hi Hi! Hiiiiiiii!」
+[￥]
+
+From his point of view, up until now, he was still gentle…… it was probably nothing more[r]
+than foreplay, like thoroughly enjoying Manami's pussy.
+[￥]
+
+Now though, Gonzo's cock was pounding against Manami's pussy violently, making a[r]
+popping sound as if it was scraping off the flesh of Manami's vagina.
+[￥]
+
+[名前 id=【Manami】 file=m0711]
+[「]Hi! Hagu! Oh! No! I……I'm going to break! 」
+[￥]
+
+Without being able to distinguish between pain and pleasure, Manami was once again[r]
+thrown into a violent climax.
+[￥]
+
+[名前 id=【Manami】 file=m0712]
+[「]Hi ah …… ah …… aghhhh ……. I’m cummiiiiiiiiiiiiiing!!」
+[￥]
+
+No, it may have been a series of climaxes accompanied by squirting earlier. Manami wasn't[r]
+given any time to calm down, and continued to be given insane pleasures connected with the[r]
+sexual massage.
+[￥]
+
+[名前 id=【Manami】 file=m0713]
+[「]Hiaaaaaa! Hey! This is…… this is it!」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Hey, Manami-sama…… We will be finished soon……Cum to your heart's content」
+[￥]
+
+While whispering to her in a loving way, he slammed his penis into her even more, even[r]
+harder.
+[￥]
+
+[名前 id=【Manami】 file=m0714]
+[「]Hiaaaahhhh!　I’m cumminggggggggggggggggggg!　I'm going …… to go aaaaahhhh!」
+[￥]
+
+Manami lets out a high-pitched, animalistic scream.
+[￥]
+
+And at the same time…
+[￥]
+
+[ＨＳＥＬ停止]
+[ＨＳＥ file=射精]
+[フラッシュ]
+[イベント time=10 file=H089]
+
+[名前 id=【Manami】 file=m0715]
+[「]Hiuuuuuuuuuuuu! ?」
+[￥]
+
+Gonzo was mercilessly pumping semen into Manami's vagina.
+[￥]
+
+[名前 id=【Manami】 file=m0716]
+[「]Higu! It's hot……it's hot! Hiaaaa! Hiaaaaaaaaa!」
+[￥]
+
+Is it the sound of her orgasm, or the pain of the swelling of her stomach from his cum. Even[r]
+she is confused, and she has repeated spasms without being able to tell the source.
+[￥]
+
+[吐息 file=愛実強]
+
+[名前 id=【Manami】 file=m0717]
+[「]Hiaaaah!　Oh …… oh …… ah ah ah ah ah ah ……」
+[￥]
+
+Gonzo milks out every last drop into the depths of Manami's vagina.
+[￥]
+
+[名前 id=【Manami】 file=m0718]
+[「]Ah…… Phew……」
+[￥]
+
+Finally, he pulled his penis out of her. Finally released, Manami let out a drawn-out cry and[r]
+slumped down on the soggy sheets.
+[￥]
+
+[イベント file=H089a]
+
+[名前 id=【Manami】 file=m0719]
+[「]Ah …… ah ……」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Well then, if you need a massage again, please. I will come to you anytime……」
+[￥]
+
+Gonzo quickly put his clothes in order and left the room.
+[￥]
+
+Far from seeing him off, Manami couldn't even reply. Maybe she didn't even notice that he[r]
+had left.
+[￥]
+
+[吐息 file=愛実弱]
+
+[名前 id=【Manami】 file=m0720]
+[「]Ah…… ahhh……」
+[￥]
+
+With blank eyes, Manami's crotch was wide open, and she kept spasming repeatedly.
+[￥]
+
+And…….
+[￥]
+
+[名前 id=【Manami】 file=m0721]
+[「]Ihhhh……! ?」
+[￥]
+
+[ＨＳＥ file=マン屁]
+
+*bubble**bubble*……a filthy sound escapes from her relaxed, gaping vagina. At the same[r]
+time…… Gonzo's semen flowed backwards, *drip* *drip* It overflowed with force of a gentle[r]
+urination.
+[￥]
+
+[名前 id=【Manami】 file=m0722]
+[「]Heh…… guuuu……」
+[￥]
+
+Manami just convulses and can't even move……[r]
+She was constantly spewing out Gonzo’s semen while making a nasty bubbling sound from[r]
+her crotch……
+[￥]
+
+*scene_end
+
+[回想登録]
+[シーン終了]
+
+[フッタ]
+
+
+
+# kag003_09.ks
+
+﻿*prepare
+[ヘッダ]
+
+*kag003_09|Used to Having Sex With Someone Other Than Her Husband.
+[待ち time=1000]
+[音楽 file=不安]
+[待ち time=500]
+[ウィンドウ表示]
+
+[名前 id=【Takahiko】]
+[（]Uh, uh…… M-Manami……! )
+[￥]
+
+Inside the hidden room, I am stroking my own erect penis while staring at Manami's[r]
+lasciviousness……I am stroking my penis, which is hard.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]Manami,……!　Oh, such a nasty expression on her face …… and her voice like a ……[r]
+beast!)
+[￥]
+
+I can't stop jerking off. My hands are already a mess with my own endlessly overflowing pre-[r]
+cum.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]Making such vulgar noises and dripping love juices like that……! )
+[￥]
+
+I can't take your eyes off Manami’s obscene appearance. I stare intently and I just jerk off[r]
+with lust.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]It’s……It's not mine…… make her pussy overflow with semen that isn't her husband's……![r]
+Ugh…… Ugh! )
+[￥]
+
+Manami’s vagina, which had relaxed and was sloppily opened, was gushing Gonzo’s[r]
+yellowish semen. I was also ejaculating in my hand while watching Manami.
+[￥]
+
+Simultaneously[――].
+[￥]
+
+[名前 id=【Manami】 file=m0723]
+[「]I'm sorry …… I'm sorry …… Takahiko …… Saan ………」
+[￥]
+
+[名前 id=【Takahiko】]
+[（]……！！）
+[￥]
+
+I was sure I heard Manami, who I thought was fainting, mutter something like a whimper.
+[￥]
+
+No……or was she unconscious after all……and being violated by someone other than me[r]
+while she was in a dream?
+[￥]
+
+[名前 id=【Takahiko】]
+[（]Manami……）
+[￥]
+
+Manami is rapidly beginning to accept the pleasure of being embraced by someone other[r]
+than me.
+[￥]
+
+That’s why……That’s why she’s saying 「I’m sorry」.
+[￥]
+
+I was immersed in a feeling of tightness in my chest as I realized this.
+[￥]
+
+*scene_end
+
+[シーン終了]
+
+[フッタ]
+
+
+
+# kag004_01.ks
+
+﻿*prepare
+[ヘッダ]
+
+*kag004_01|Morning of the Fourth Day. Overt Change
+[待ち time=1000]
+[ＳＥ file=小鳥]
+[待ち time=500]
+[ウィンドウ表示]
+
+[名前 id=【Takahiko】]
+[「]…………」
+[￥]
+
+It was the morning of my fourth day at my parents' house.
+[￥]
+
+The skies are clear today and the morning air is fresh and crisp.
+[￥]
+
+However, perhaps because of last night's events, I was dripping with sticky night sweats.
+[￥]
+
+[音楽 file=村昼]
+
+[名前 id=【Takahiko】]
+[「]Good grief……」
+[￥]
+
+I just wanted to take a bath and freshen up.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]Manami……)
+[￥]
+
+I got up from the futon and looked at Manami who was next to me.
+[￥]
+
+[名前 id=【Manami】 file=m0724]
+[「]……Hmm……
+[￥]
+
+Manami actually turned over in her sleep and turned her peaceful sleeping face to me as if[r]
+we had arranged it.
+[￥]
+
+As usual, she's still sleeping like an innocent …… adorable little girl[――].
+[￥]
+
+[名前 id=【Takahiko】]
+[（]No……)
+[￥]
+
+It was only at first glance that it seemed that way.
+[￥]
+
+[名前 id=【Manami】 file=m0725]
+[「]Hmm…… ah……」
+[￥]
+
+If you look closely enough, you can see it immediately. Her sleeping face now is not only[r]
+innocent and lovely.
+[￥]
+
+[名前 id=【Manami】 file=m0726]
+[「]……hafu……」
+[￥]
+
+Just like me, she was sweating thinly from the afterglow of last night's events… and her[r]
+expression was also oozing with a rich femininity.
+[￥]
+
+Manami is rapidly being remade. From a chaste and innocent wife…… to an obscene[r]
+woman. And not by me, but by the hands of my father and those around him.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]…… Manami)
+[￥]
+
+When I think about it, my chest hurts like it's about to burst.
+[￥]
+
+However, even though it hurts…… what fills most of my heart is the dark desire and[r]
+excitement that I continue to have for Manami…
+[￥]
+
+*scene_end
+
+[シーン終了]
+
+[フッタ]

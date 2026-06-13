@@ -1,0 +1,590 @@
+# kag005_52h.ks
+
+﻿*prepare
+[ヘッダ]
+
+*kag005_52h|Complete Defeat
+[待ち time=1000]
+[待ち time=500]
+[ウィンドウ表示]
+
+[名前 id=【Takahiko】]
+[「]…………」
+[￥]
+
+I put the DVD in the player and press play. For a while, the screen was nothing but static.
+[￥]
+
+[名前 id=【Takahiko】]
+[「]Eh? [――]」
+[￥]
+
+For a while, I was unable to properly understand what was displayed there.
+[￥]
+
+[音楽停止 style=フェード time=1000]
+[全ＳＥ停止]
+[完全消去 time=1000]
+[待ち time=500]
+[ＨＳＥＬ file=挿入強]
+[イベント time=1000 file=H310]
+[待ち time=500]
+[音楽 file=Ｈ３]
+[ウィンドウ表示]
+
+[堕ち喘ぎ file=彩花弱]
+
+[名前 id=【Ayaka】 file=a0668]
+[「]Taka-Kuun, are you watching? Yeah!」
+[￥]
+
+Ayaka[――]?
+[￥]
+
+First, my brain first recognizes the existence of Ayaka. Ayaka straddles my father, rocking[r]
+her hips as she twists and turns, making a peace sign with both hands towards the camera.
+[￥]
+
+[名前 id=【Takahiko】]
+[（]Who……? )
+[￥]
+
+Although she looked like the Ayaka I knew, she was a completely different person.
+[￥]
+
+And it continues[――].
+[￥]
+
+[堕ち喘ぎ file=愛実強]
+
+[名前 id=【Manami】 file=m1547]
+[「]Ah…… ah…… ah! Cock! Cock! Eeeeee!」
+[￥]
+
+[名前 id=【Ayaka】 file=a0669]
+[「]Ma-Manami-san, you can't be so preoccupied about dicks, can you? Look, I told you that I[r]
+was going to shoot a video mail for Takahiko-san today, didn't I?」
+[￥]
+
+[名前 id=【Manami】 file=m1548]
+[「]Ahhh……Come on……Hmm! 　Cock…… It feels good…… Ahhhhh!」
+[￥]
+
+Manami[――]?
+[￥]
+
+The next thing I recognized is Manami.
+[￥]
+
+But this must be someone else. I've never seen such a disheveled figure, a face drowning in[r]
+lust in front of me.
+[￥]
+
+[名前 id=【Manami】 file=m1549]
+[「]Hii……Hi……Hihaaaaaaa……」
+[￥]
+
+With a slack-jawed smile on her face, she and Ayaka make a silly peace sign with both[r]
+hands for the camera.
+[￥]
+
+[名前 id=【Manami】 file=m1550]
+[「]Hi!　Dick!　Dick is good. Ahihi!　Dick is so nice!」
+[￥]
+
+Meanwhile, the woman, whose face I do not recognize anymore, is not looking at the camera[r]
+at all, but rather, she is straddling the man's body and shaking her hips, as if she does not[r]
+even know where she is looking.
+[￥]
+
+There is no way that such a crazy perverted woman could be the Manami I know.
+[￥]
+
+[名前 id=【Ayaka】 file=a0670]
+[「]I'm sorry, Taka-kun. Manami-san, she’s obsessed with dicks…… I can't help but like her, but[r]
+it's a problem.」
+[￥]
+
+[名前 id=【Manami】 file=m1551]
+[「]Hahaha, hiiiii………[シンボル tx=黒ハート]Wow……hifuuu, This dick is……I love this dick Hiaaaaaa[シンボル tx=黒ハート]」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Manami, if you don't do what the Master says, I won't be able to do anything more for you.」
+[￥]
+
+[堕ち喘ぎ file=愛実中]
+
+[名前 id=【Manami】 file=m1552]
+[「]Oh no…… I don't understand…… Takahiko-san, are you watching? Ufufu..」
+[￥]
+
+She barely looks at me with a dull gaze, but she still doesn't look at the camera. Her[r]
+consciousness has completely gone to the meat stick that is stuck in her pussy.
+[￥]
+
+[名前 id=【Ayaka】 file=a0671]
+[「]Uh-huh. I'm sorry, Taka-kun…… that I asked for you to get a divorce at that time……[r]
+nmmm…… Master ordered me to do it……」
+[￥]
+
+……What is she talking about, this perverted woman.
+[￥]
+
+[堕ち喘ぎ file=彩花中]
+
+[名前 id=【Ayaka】 file=a0672]
+[「]Ahhh! No…… no……! I’m still talking…… Ah, you know…… you know? Because I had to[r]
+do that…… Hmm! This dick…… wow!
+[￥]
+
+[名前 id=【Ayaka】 file=a0673]
+[「]Oh …… huh ……. He said he wouldn’t fuck me with his dick…… I can't help it, can I?　If he[r]
+says that to me, I'm going to …… be like, Oh, my God!　It’s so hard!　I can't help it……[r]
+sorry?」
+[￥]
+
+…… I have no idea what she means.
+[￥]
+
+Because Ayaka[――]She should have escaped from my father and come here. In my…… this house.
+[￥]
+
+[イベント file=H311]
+[堕ち喘ぎ file=愛実強]
+
+[名前 id=【Manami】 file=m1553]
+[「]Phaaaaaa! Wah, I'm……mmuuuu! T-Takahiko-san…… after we broke up……I’ve been….[r]
+Hiuuuuuu! Pussy! Don't do that!」
+[￥]
+
+[名前 id=【Manami】 file=m1554]
+[「]Hah…… Ah, that. How, how ba…… is it..?」
+[￥]
+
+[堕ち喘ぎ file=彩花弱]
+
+[名前 id=【Ayaka】 file=a0674]
+[「]Fufu, after you broke up with Takahiko-san.」
+[￥]
+
+[堕ち喘ぎ file=愛実中]
+
+[名前 id=【Manami】 file=m1555]
+[「]Oh, yes ……, that's right ……. Well, right after that, I was invited by my father-in-law-sama[r]
+……. Ohhhh…… then he just pushed me down…… and he raped me…… I was raped by[r]
+……」
+[￥]
+
+[名前 id=【Manami】 file=m1556]
+[「]Heehee……. I think I'm going to cum …… when I remember it ……. By my father-in-law-[r]
+sama... by Gonzo... by the two of them... ah... ah... A lot of cumshots……」
+[￥]
+
+[名前 id=【Manami】 file=m1557]
+[「]So, so…… I…… I'm already captivated by their penises…… Hmmm, fuwaa. After[r]
+all……they both have splendid cocks that are incomparable to Takahiko-san……it can't be[r]
+helped…… I'm sorry.」
+[￥]
+
+While trying to talk to the screen, the two of them were getting fucked from below……[r]
+already, their fingers were in a shape that they couldn't tell if they were a peace sign.
+[￥]
+
+[名前 id=【Manami】 file=m1558]
+[「]Aaahhh……. I want to thank Takahiko-san…… Thank you for divorcing me! Thank you so[r]
+much for breaking up with me so that I can meet a wonderful cock!」
+[￥]
+
+……Who is this?
+[￥]
+
+Because Manami was my faithful wife. I've never seen such a lustful face, and even when[r]
+we parted, she was thinking of me until the very end.
+[￥]
+
+[イベント file=H312]
+
+[名前 id=【Gonzo】]
+[「]Oh well, I wondered what it would be like to be alone forever. When I consulted with my[r]
+Master, he gave me this second-hand meat urinal.」
+[￥]
+
+[名前 id=【Manami】 file=m1559]
+[「]Ahhh! Manami……I'm going to study……Specializing in semen……A meat urinal[r]
+specializing in penis」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Well, to be honest, I didn't think it would work with such a dirty, used toilet bowl, but it was[r]
+the Master's gift, too. Thus, I took her to be my wife while she was my sexual release toilet.
+[￥]
+
+……Hahahahaha. Good for you, Gonzo. It suits you. That's…… a filthy dirty woman who[r]
+seems to only smell like semen!
+[￥]
+
+[名前 id=【Nagataro】]
+[「]I was tired of letting someone hold Ayaka, so this time I entertained her with a little change.」
+[￥]
+
+[名前 id=【Takahiko】]
+[「]Oh, Dad ……」
+[￥]
+
+[堕ち喘ぎ file=彩花中]
+
+[名前 id=【Ayaka】 file=a0675]
+[「]Mmmmmm!　Oh my god, that's awful ……. How dare you let that lousy dick insert itself into[r]
+my cunt! ……. I still feel like my pussy is dirty. I scrub it every day……」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Hahaha, don't say that. Immediately after that, I would have repainted the memory of the[r]
+poor dick.」
+[￥]
+
+[名前 id=【Ayaka】 file=a0676]
+[「]Hmmm…… that's right, but…… Fufu, in the first place, it was so pathetic that I didn't even[r]
+know when it was inserted……」
+[￥]
+
+[名前 id=【Ayaka】 file=a0677]
+[「]It was so hard for me to describe to you how I felt…… It doesn't even serve for masturbation[r]
+at all. And yet, you're going to spew your filthy semen all over the place…… Oh no, no, no.」
+[￥]
+
+Fufufuhahaha. Huh. Father and Ayaka-san are still on good terms, aren't they? Fufu, my[r]
+father is really fond of taking such a filthy woman as his wife.
+[￥]
+
+By the way, wasn’t Ayaka supposed to be here by now …… Huh?　Or was it Manami or[r]
+……?
+[￥]
+
+[名前 id=【Nagataro】]
+[「]That's why, no matter how long you wait, Ayaka won't be yours, and Manami-san will[r]
+become a member of this village as Gonzo's libido disposal tool.」
+[￥]
+
+[名前 id=【Manami】 file=m1560]
+[「]Ahhh! I'm sorry……? Manami…… is special.. I'm not picky about any kind of dick……」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]I see, I see, Manami is a well-made toilet bowl!」
+[￥]
+
+[名前 id=【Manami】 file=m1561]
+[「]Ahhhh……Yes, why not…… hah, hah, dick, dick oh…… I want to handle it oh, dick, dick[r]
+oh………[シンボル tx=黒ハート]」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]However, the people in the village have already made the rounds. Hmmm…… I wonder what[r]
+I should do, Gonzo.」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Look, Master…… Taro and Rudolph are about to……」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Oh, right. Oh, no, Takahiko. As for Taro, he’s a bull that I was about to put down.
+[￥]
+
+[名前 id=【Manami】 file=m1562]
+[「]Haaaaan!　Bull-san's dick!　Moo-moo-san's dick!　Oh, my goodness……!」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]As a breeding bull and as meat, he is a waste. In spite of that, he has a rut just like other[r]
+bull. What do you think, that's a good idea.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]The genes of this bum bull, which do not deserve to be used in other cows or even an[r]
+artificial vagina in a breeding mount, are just right for this woman's trashy pussy. Right,[r]
+Manami?」
+[￥]
+
+[名前 id=【Manami】 file=m1563]
+[「]Huh, huh, huh, huh, huh[シンボル tx=黒ハート][r]Itadakimasu (Translator Note: She said, 『I receive this food,』 a common blessing said[r]
+before eating). Useless, inferior cow genes, please throw it away into Manami’s pussy.[シンボル tx=黒ハート]」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Rudolph is a stallion. He isn't bad livestock like Taro, he’s a wonderful horse with a[r]
+pedigree.」
+[￥]
+
+[名前 id=【Manami】 file=m1564]
+[「]Ahhh! Yummy! 　Horse-san's dick! Horse dick[シンボル tx=黒ハート]」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Manami seems to like that horse. As soon as she heard the name, her cock face looks more[r]
+and more enchanted」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]I see!　But you know, Rudolph's cock is so large that even a mare would have a hard time[r]
+with it. I was having a time time finding him a partner. Well, Manami, would you like a[r]
+horse?」
+[￥]
+
+[名前 id=【Manami】 file=m1565]
+[「]Yes! Manami…… I want to play with the horse.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Then…… I'm sorry, Gonzo. It looks like your wife will be useless as soon as the month after[r]
+next.」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]No, Master, I am also fed up with this insatiable semen toilet. I can only smell the semen[r]
+from her mouth, not to mention from her crotch. The room smells so bad that I can't stand[r]
+it.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Well, that's convenient then. Oops, sorry, Takahiko. I've been neglecting you. As I told you,[r]
+Rudolph's cock is specially made. It's out of the ordinary.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]If I'm going to make her use her mouth, I'm going to have to pull all of her teeth out. I[r]
+wouldn't want to damage Rudolph's dick. If it's pussy or ass, well, She'll never be able to use[r]
+it again. It'll ruin her sphincter. It'll be dripping for the rest of her life.」
+[￥]
+
+[名前 id=【Manami】 file=m1566]
+[「]Hiaaaaaaaaa! Manami…… are you going to have my teeth pulled out? Will I have my poop[r]
+…… dripping out of me?」
+[￥]
+
+[名前 id=【Ayaka】 file=a0678]
+[「]Hehe…… She looks even happier. I envy you, Manami-san.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Hey, hey, I have no intention of using you up. One of Takahiko's used women is enough for[r]
+me.」
+[￥]
+
+[名前 id=【Ayaka】 file=a0679]
+[「]Hmmm……. I'm both happy and disappointed……」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Speaking of which, sir, …… we have some pigs in the piggery that are almost old enough.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Oh yeah. Before I use it all up on Rudolph, let me try that too.」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]Oh, and the dogs at Heizo's house should be on their way too ……」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Six puppies of their Tosa Inu dog, huh? It's hard to pass up being gang-raped by dogs, isn't[r]
+it?」
+[￥]
+
+[名前 id=【Manami】 file=m1567]
+[「]Ahhhhh! Manami…… I'm going to become an animal's toilet Manami's trashy pussy…… she[r]
+specializes in dealing with the sexual desires of animal-san……」
+[￥]
+
+[名前 id=【Ayaka】 file=a0680]
+[「]Hehe. I envy you, Manami-san.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Well, anyway. The trash that you threw away……or rather, Manami-san, don't worry, we'll[r]
+make effective use of it thoroughly.」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]I, Gonzo, will take all the pictures responsibly and send them to you as they are taken. I[r]
+hope you will enjoy them.」
+[￥]
+
+[名前 id=【Nagataro】]
+[「]Hahahaha. Must be lonely being alone. You can use it as material to masturbate to.[r]
+Hahahaha!」
+[￥]
+
+[名前 id=【Takahiko】]
+[「]No, Dad. I have Manami and Ayaka. I don't have to be alone……Ahh……Ehhh……?」
+[￥]
+
+……I noticed that for some reason large teardrops were spilling from my own eyes.
+[￥]
+
+Why do I have to cry?　I'm such a happy person[――].
+[￥]
+
+[ＨＳＥＬ file=挿入最強]
+[イベント file=H313]
+[堕ち喘ぎ file=彩花強]
+[堕ち喘ぎ file=愛実強]
+
+[名前 id=【Ayaka】 file=a0681]
+[「]Ah…… Ah! I-I…… I-I'm……!」
+[￥]
+
+[名前 id=【Manami】 file=m1568]
+[「]I’m cumming!　Manami also …… Manami also is cumming on a dick!　Nnnn……[r]
+nnnggggg!」
+[￥]
+
+On the screen, the two females were about to climax together.
+[￥]
+
+[名前 id=【Ayaka】 file=a0682]
+[「]Ahahaha!　I'm going to ……!　Watch me!　Taka-kun…… see me cum a lot!　Watch me[r]
+cum with my cumming face!」
+[￥]
+
+[名前 id=【Gonzo】]
+[「]I’m cumming, Manami. You can cum too!　Perhaps, it will be your last human semen.[r]
+Accept it gratefully.」
+[￥]
+
+[名前 id=【Manami】 file=m1569]
+[「]Hahiiii! I’m cumming! Manami…… I'm going to have my last orgasm with a human dick! At[r]
+the same time as I cum…… I'm going to stop being human!」
+[￥]
+
+[名前 id=【Manami_&_Ayaka】 file=mix0002]
+[「]Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh !」[endindent][eval exp="f.ind = false"][r]
+[「]Cumminnnnnnnnnnnnnng!!」
+[￥]
+
+[ＨＳＥＬ停止]
+[ＨＳＥ file=射精]
+[フラッシュ]
+[イベント time=10 file=H314]
+
+In their wombs, Father and Gonzo[――]The two bitches climaxed while being inseminated by the two males.
+[￥]
+
+[名前 id=【Ayaka】 file=a0684]
+[「]Hahiiii[シンボル tx=黒ハート] Hi i i i i i i i i i i i i i i i i[シンボル tx=黒ハート][r]Dick, I’m cumming, dick, I’m cumming, I’m cumming, I’m cumming, I’m cumming, I’m[r]
+cumming, It's soooooooooooooooooooooooo[シンボル tx=黒ハート][シンボル tx=黒ハート]」
+[￥]
+
+[名前 id=【Manami】 file=m1571]
+[「]Hmm oh oh, ho, oh oh oh[シンボル tx=黒ハート][r]My pussy is meling, my pussy is melting, yes, yes, yes, yes, niiiiiiiice, My pussy, I’m[r]
+cumminnnnnng![シンボル tx=黒ハート][シンボル tx=黒ハート][シンボル tx=黒ハート]」
+[￥]
+
+[イベント file=H315]
+
+Perhaps trained to do so, the two bitches again make a peace sign with both hands while[r]
+revealing their disheveled faces to the pleasure of their orgasms.
+[￥]
+
+With a satisfied, enchanted expression on their faces.
+[￥]
+
+[名前 id=【Ayaka】 file=a0685]
+[「]I'm sorry, Taka-kuun……」
+[￥]
+
+[名前 id=【Takahiko】]
+[「]eh……」
+[￥]
+
+Right now…… the woman on the screen has an expression like the Ayaka I remember[――].
+[￥]
+
+[イベント file=H316]
+
+[名前 id=【Ayaka】 file=a0686]
+[「]Ahhhhhh…… ahhhhhhh!　I'm sorry that your first love is such a slut……At least, as an[r]
+apology, use me as jerk-off material for the rest of your life……[シンボル tx=黒ハート]」
+[￥]
+
+It was all in my …… mind. Soon the woman on the screen went back to just a dirty bitch[r]
+face.
+[￥]
+
+[名前 id=【Manami】 file=m1572]
+[「]Goodbye, Takahiko-san……」
+[￥]
+
+[名前 id=【Takahiko】]
+[「]Ma-Manami……?」
+[￥]
+
+Again. It looked like Manami was on the screen and then …….
+[￥]
+
+[名前 id=【Manami】 file=m1573]
+[「]Hee hee hee[シンボル tx=黒ハート][r]I……I'm quitting being a human……so this is my farewell…… Fufu, please enjoy jerking[r]
+your pathetic dick…[シンボル tx=黒ハート]」
+[￥]
+
+……It is somehow. After all, the screen only shows a dirty, filthy bitch.
+[￥]
+
+[喘ぎ停止]
+
+[名前 id=【Manami_&_Ayaka】 file=mix0003]
+[「]……We are ……going to…… be happy[シンボル tx=黒ハート]」[endindent][eval exp="f.ind = false"][r]
+[「]……We are ……going to…… be happy[シンボル tx=黒ハート]」
+[￥]
+
+The bitches on the screen are saying something.
+[￥]
+
+It hurts somewhere. A throbbing pain deep in my chest, where there was something very[r]
+important.
+[￥]
+
+And yet I had ejaculated profusely in my pants.
+[￥]
+
+I shouldn’t have made such a mess.
+[￥]
+
+I need to get changed before 「she」 comes back………
+[￥]
+
+I took one last glimpse at the women who were still on the screen, looking like idiots, making[r]
+peace signs.
+[￥]
+
+[音楽停止 style=フェード time=1000]
+[全ＳＥ停止]
+[全消去 time=1000]
+
+And then[――].
+[￥]
+
+[音楽 file=憂鬱]
+
+[名前 id=【Takahiko】]
+[「]I'm still waiting for ……. They’re late, both of them.[――]」
+[￥]
+
+I will wait for you both, forever and ever……
+[￥]
+
+[ウィンドウ消去]
+[全消去 trans=false]
+[セピアイベント trans=false file=H316]
+[3000trans]
+[待ち time=5000]
+
+*scene_end
+
+[回想登録]
+[シーン終了 time=2000]
+
+[フッタ]
