@@ -108,6 +108,134 @@ High.
 The purpose of this rule is to prevent important canon entities from being omitted simply because they appear briefly or outside the main focus of a scene.
 
 ---
+==================================================
+PHASE 4A — CANON EXTRACTION
+==================================================
+
+Before Interpretation, perform a Canon Extraction Pass.
+
+Assume the reader will never reopen the file.
+
+Extract all potentially sequel-relevant information even if it appears minor.
+
+Prefer over-inclusion to compression.
+
+Do NOT merge separate revelations together.
+
+If the source presents three distinct observations,
+record three distinct observations.
+
+Preserve:
+
+- motivations
+- emotional transitions
+- internal monologue
+- symbolic imagery
+- continuity details
+- relationship changes
+- first appearances
+- recurring phrases
+- unusual wording
+- self-descriptions
+- role descriptions
+- family dynamics
+- social dynamics
+- village dynamics
+- ritual references
+- references to past events
+- references to future events
+
+==================================================
+EMOTIONAL SEQUENCE RULE
+==================================================
+
+When a file contains a psychological progression,
+preserve the sequence in order.
+
+Example:
+
+Bad:
+
+"Takahiko felt conflicted."
+
+Good:
+
+1. Takahiko ejaculates.
+2. Takahiko compares himself to Gonzo.
+3. Takahiko feels inferior.
+4. Takahiko cries.
+5. Takahiko questions himself.
+6. Takahiko eroticizes the memory.
+7. Takahiko ejaculates again.
+
+Do not compress emotional chains into a single summary statement.
+
+==================================================
+SYMBOLISM RULE
+==================================================
+
+Create a separate subsection:
+
+Recurring Symbols / Imagery
+
+Record:
+
+- repeated metaphors
+- repeated objects
+- repeated bodily imagery
+- repeated family imagery
+- repeated ritual imagery
+- repeated language
+
+Even if no interpretation is provided.
+
+==================================================
+CONTINUITY RULE
+==================================================
+
+Create a subsection:
+
+Continuity Notes
+
+Record:
+
+- exact relationship statements
+- exact social hierarchy statements
+- exact family hierarchy statements
+- exact motivations
+- exact causes of decisions
+
+Preserve ambiguity.
+
+Do not strengthen claims.
+
+Example:
+
+Source:
+"Nagataro claims Ayaka loved Takahiko."
+
+Record:
+"Nagataro claims Ayaka loved Takahiko."
+
+Do NOT upgrade to:
+"Ayaka loved Takahiko."
+
+==================================================
+COMPLETENESS TEST
+==================================================
+
+Before finalizing ask:
+
+"If the original repository disappeared tomorrow,
+could a sequel writer reconstruct this file's important
+character, relationship, continuity, and symbolism content
+from this audit alone?"
+
+If the answer is no:
+
+Expand the extraction section before finalizing.
+
+---
 
 # FACTS VS INTERPRETATION
 
